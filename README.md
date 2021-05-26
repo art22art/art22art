@@ -2,7 +2,7 @@
 - 👀 I’m interested in drums, drawing, xml parsing and geolocation.
 - 🌱 I’m currently learning c#, .net, sql and java.
 - 💞️ I’m looking to collaborate on xml related projects.
-- 📫 art22art@live.com
+- 📫 https://github.com/art22art
 
 <!---
 art22art/art22art is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
